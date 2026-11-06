@@ -1,4 +1,4 @@
-# Hi, I'm Antonino Maria Rizzo 👋
+# Hi, I'm Antonino 👋
 
 💻 Senior Machine Learning Engineer at Cisco, working on computer vision and video understanding.
 
